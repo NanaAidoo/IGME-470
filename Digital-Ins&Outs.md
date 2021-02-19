@@ -21,6 +21,8 @@ One switch when it flips simply turns the light on and off
 
 The oher switch when it's on alternates between the LED and the onboard LED every three seconds
 
+pictures of circuit:https://drive.google.com/drive/folders/1PeDBddsdboHe1y1YFMTf6mT_tNzt4-d4?usp=sharing
+
 this is the code that I figure could work:
 https://create.arduino.cc/editor/nanaaidoo/e5022b56-0d49-4241-81ea-b29d4e99fead/preview
 
