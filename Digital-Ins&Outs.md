@@ -8,10 +8,18 @@ A switch that when iy is flipped on, an LED is flashing on and off every three s
 Lastly, simple function where a random number is called between 0 and 20 and if the number is less than 10, the LED on the arduino turns on
 
 # Discoveries/Confusions
-It's most likely the way my circuits were made but only one of my switches work consistently but not fully. However the light functions I made do work so I at least know that all of them work properly.
+the way I made my circuits initally weren't done properly and only one of my switches work consistently but not fully. However the light functions I made do work so I at least know that all of them work properly.
+
+I found out you need to send power to the other side if the breadboard in order for it to parts to work if you have it on the other side
+
+I also found out that the sparkfun push button actually needs to be wired differently in order for it to work but in order to keep this assignment simple I switched it out for another switch.
+
+The switch also requires power in it's second pin specifically or else it won't work properly 
 
 # How it actually works
-I don't have it working due to missing parts
+One switch when it flips simply turns the light on and off
+
+The oher switch when it's on alternates between the LED and the onboard LED every three seconds
 
 this is the code that I figure could work:
 https://create.arduino.cc/editor/nanaaidoo/e5022b56-0d49-4241-81ea-b29d4e99fead/preview
