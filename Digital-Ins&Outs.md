@@ -23,3 +23,4 @@ The oher switch when it's on alternates between the LED and the onboard LED ever
 
 this is the code that I figure could work:
 https://create.arduino.cc/editor/nanaaidoo/e5022b56-0d49-4241-81ea-b29d4e99fead/preview
+
