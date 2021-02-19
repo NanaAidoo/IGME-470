@@ -8,7 +8,7 @@ A switch that when iy is flipped on, an LED is flashing on and off every three s
 Lastly, simple function where a random number is called between 0 and 20 and if the number is less than 10, the LED on the arduino turns on
 
 # Discoveries/Confusions
-Nothing as I haven't implemented it yet
+It's most likely the way my circuits were made but only one of my switches work consistently but not fully. However the light functions I made do work so I at least know that all of them work properly.
 
 # How it actually works
 I don't have it working due to missing parts
