@@ -1,4 +1,4 @@
-##Pop Jenga
+#Pop Jenga
 Team: Nana Aidoo, Zach Brown, Steven Mills
 
 Our game idea is to make a jenga game using stress bricks.
