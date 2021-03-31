@@ -8,4 +8,4 @@ The catch is the floor surrounding the tower is covered with bubble sheets
 There are sound sensors throught the floor which are set to a specific loud sound,
 specifically anything higher than the sound bubble wrap popping
 
-If the sensors are activated then it triggers motors underneath the tower which will cause the tower to shake
+If the sensors are activated then it triggers motors underneath the table the tower is sitting on which will cause the tower to shake
