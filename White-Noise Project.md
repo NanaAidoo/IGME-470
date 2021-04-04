@@ -1,4 +1,4 @@
-#Original Idea
+# Original Idea
 For my poem I want to visualize what it's like when you are too much in your own thoughts. As a person keeps looping about in their own mind
 their thoughts get more and more clouded and sometimes all you need to clear it is for someone there to snap you out of it.
 
