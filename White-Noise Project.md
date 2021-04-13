@@ -31,8 +31,13 @@ https://editor.p5js.org/NanaAidoo/sketches/2UGnuCG7J
  Arduino code used:
 https://create.arduino.cc/editor/nanaaidoo/6c5f5a32-dd71-4935-8218-a0f9c6bd1411/preview
 
+Video demo:
+https://drive.google.com/file/d/1CMXoBvz1ZpaYoqWXzmueppUM1uBF9KSX/view?usp=sharing
+
+
 Arduino circuit:
 ![20210412_222738](https://user-images.githubusercontent.com/54689756/114489099-8b7aea00-9be0-11eb-9f67-19c025fee339.jpg)
+
 
 
 # Sources
