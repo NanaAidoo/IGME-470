@@ -1,0 +1,17 @@
+# Original Idea
+For my poem I want to visualize what it's like when you are too much in your own thoughts. As a person keeps looping about in their own mind
+their thoughts get more and more clouded and sometimes all you need to clear it is for someone there to snap you out of it.
+
+# What I wanted to do
+
+In order to do this I set up a canvas in p5.js where I us perlin noise to create waves. The waves start off slow and steady but as it continues
+It rages on and gets more out of control. 
+In order to calm it down, a voice needs to be heard which will make it hard reset.
+I wanted to use a mic or knock sensor that will sense a person's voice.
+The sound will be set to a value and only when the value is high enough does it register in the canvas
+
+
+
+# Discoveries/Confusions
+
+ 
