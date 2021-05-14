@@ -1,6 +1,5 @@
 # Original Idea
-For my poem I want to visualize what it's like when you are too much in your own thoughts. As a person keeps looping about in their own mind
-their thoughts get more and more clouded and sometimes all you need to clear it is for someone there to snap you out of it.
+My Idea is for my project is for an experience where you have a certain amount of time to drink water before a timer goes off. My goal is that this experience will help generate healthy hydration habits as it is too easy, especially for people busy with either work or school work, to avoid keeping oneself hydrated through out the day. When the timer runs out a sound goes off. The sound would be attention grabbing but not too unpleasant. If the user picks up the water bottle before time runs out then the timer resets from the beginning, this shows that the user is improving their drinking habits. Even if they just pick up the bottle to stop the timer it makes them acknowledge the water bottle and consider drinking from it.
 
 # What I wanted to do
 
